@@ -1,0 +1,14 @@
+{
+  "resolution": [
+    1920,
+    1080
+  ],
+  "aspect_ratio": "16:9",
+  "style": "Japanese sci-fi visual novel",
+  "dialogue_box": "custom_blue",
+  "character_animation": true,
+  "camera_animation": true,
+  "scene_transition": "crossfade",
+  "autoplay": true,
+  "scenes": {}
+}

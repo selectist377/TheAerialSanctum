@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#071525">
+<title>空中圣阁 · THE AERIAL SANCTUM</title>
+<style>
+*{box-sizing:border-box}
+body{
+ margin:0;min-height:100vh;color:#eaf5ff;
+ font-family:"Microsoft YaHei",sans-serif;
+ background:
+ linear-gradient(180deg,#07152555,#071525ee),
+ url("./data/bgimage/圣阁外部.png") center/cover fixed,
+ #071525;
+ display:flex;align-items:center;justify-content:center;
+ text-align:center;
+}
+main{width:min(700px,92%);padding:35px 20px}
+.en{color:#72d7ff;letter-spacing:6px;font-size:12px}
+h1{font-size:clamp(42px,9vw,76px);letter-spacing:12px;margin:25px 0 8px}
+.sub{color:#c5d9e9;letter-spacing:3px}
+.line{width:90px;height:2px;background:#68d3ff;margin:30px auto}
+.desc{color:#a9c4d9;line-height:2}
+.buttons{display:flex;gap:16px;justify-content:center;
+ flex-wrap:wrap;margin-top:38px}
+a{
+ display:block;text-decoration:none;color:#eaf5ff;
+ border:1px solid #68d3ff;border-radius:8px;
+ padding:15px 35px;min-width:190px;
+ background:#102b43cc;transition:.25s;
+}
+a:hover{background:#17618b;transform:translateY(-3px)}
+a.primary{background:#17618b}
+footer{margin-top:65px;color:#7897ae;font-size:11px;letter-spacing:2px}
+@media(max-width:500px){
+ h1{letter-spacing:6px}
+ .buttons{flex-direction:column}
+ a{width:100%}
+}
+</style>
+</head>
+<body>
+<main>
+ <div class="en">THE AERIAL SANCTUM</div>
+ <h1>空中圣阁</h1>
+ <div class="sub">四幕十二场 · 完整戏剧作品</div>
+ <div class="line"></div>
+ <p class="desc">
+  在雾港市的天空之上，神谕决定着城市的秩序。<br>
+  当真理的大门再次开启，所有人都必须作出选择。
+ </p>
+ <div class="buttons">
+  <a class="primary" href="./player.html">开始放映</a>
+  <a href="./preview/index.html">阅读完整剧本</a>
+ </div>
+ <footer>THE AERIAL SANCTUM · ORIGINAL DRAMA</footer>
+</main>
+</body>
+</html>

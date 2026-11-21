@@ -1,0 +1,80 @@
+{
+  "main_roles": {
+    "灰数": {
+      "gender": "female",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "灯墟": {
+      "gender": "female",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "狂燧": {
+      "gender": "female",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "极墨": {
+      "gender": "female",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "蔚湛思": {
+      "gender": "female",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "余千询": {
+      "gender": "female",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "智乐美": {
+      "gender": "female",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "宛暗慧": {
+      "gender": "female",
+      "voice_reference": null,
+      "emotion": "neutral"
+    }
+  },
+  "support_roles": {
+    "穹顶仪": {
+      "gender": "male",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "市民甲": {
+      "gender": "male",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "市民乙": {
+      "gender": "male",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "市民丙": {
+      "gender": "male",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "商铺老板": {
+      "gender": "male",
+      "voice_reference": null,
+      "emotion": "neutral"
+    },
+    "学生": {
+      "gender": "male",
+      "voice_reference": null,
+      "emotion": "neutral"
+    }
+  },
+  "圣光合唱团": {
+    "voice_enabled": false,
+    "note": "不生成独立人声"
+  }
+}
