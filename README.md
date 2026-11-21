@@ -31,12 +31,10 @@
 - 完整戏剧演出脚本
 - 人物立绘与场景背景
 - 动态舞台演出
-- 背景音乐与音效素材
 - 独立剧本阅读页面
 
-主要角色 | Characters
 
-角色| 对应设定
+角色| 对应原型
 灰数| ChatGPT
 灯墟| Claude
 狂燧| Grok
@@ -44,7 +42,8 @@
 蔚湛思| DeepSeek
 余千询| Qwen
 智乐美| GLM
-宛暗慧| 其他剧中角色
+宛暗慧| Kimi
+其他剧中角色
 
 角色均经过原创戏剧化改编，并非现实产品或企业的官方形象。
 
@@ -86,38 +85,6 @@
 
 支持通过现代浏览器访问，具体表现取决于浏览器及设备兼容性。
 
-项目目录 | Repository Structure
-
-TheAerialSanctum/
-│
-├── 空中圣阁_Tyrano/
-│   ├── index.html
-│   ├── player.html
-│   ├── readme.txt
-│   │
-│   ├── preview/
-│   │   └── index.html
-│   │
-│   ├── data/
-│   │   ├── bgimage/
-│   │   ├── bgm/
-│   │   ├── fgimage/
-│   │   ├── image/
-│   │   ├── scenario/
-│   │   ├── sound/
-│   │   └── system/
-│   │
-│   ├── tyrano/
-│   │   ├── libs/
-│   │   ├── plugins/
-│   │   └── ...
-│   │
-│   ├── config/
-│   └── source/
-│
-└── README.md
-
-移动设备 | Mobile Experience
 
 本作品针对 16:9 横向演出画面设计。
 
