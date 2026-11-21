@@ -1,0 +1,5 @@
+;《空中圣阁》测试启动入口
+[stop_keyconfig]
+@call storage="tyrano.ks"
+@jump storage="空中圣阁测试.ks"
+[s]

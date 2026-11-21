@@ -1,0 +1,24 @@
+{
+  "scene_count": 12,
+  "event_count": 459,
+  "type_counts": {
+    "location": 12,
+    "time": 12,
+    "entrance": 12,
+    "stage_direction": 71,
+    "dialogue": 322,
+    "chorus": 5,
+    "poetic_verse": 18,
+    "act_title": 3,
+    "act_epigraph": 3,
+    "ending_marker": 1
+  },
+  "dialogue_count": 322,
+  "chorus_count": 5,
+  "poetry_count": 18,
+  "duplicate_lines": [],
+  "missing_raw": [],
+  "missing_display": [],
+  "line_mismatches": [],
+  "source_line_count": 498
+}

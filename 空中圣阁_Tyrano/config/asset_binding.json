@@ -1,0 +1,112 @@
+{
+  "background_directory": "/content/空中圣阁_Tyrano/data/bgimage",
+  "character_directory": "/content/空中圣阁_Tyrano/data/fgimage/characters_final",
+  "backgrounds": {
+    "东环空轨.png": "/content/空中圣阁_Tyrano/data/bgimage/东环空轨.png",
+    "圣阁.png": "/content/空中圣阁_Tyrano/data/bgimage/圣阁.png",
+    "圣阁外部.png": "/content/空中圣阁_Tyrano/data/bgimage/圣阁外部.png",
+    "外环街区.png": "/content/空中圣阁_Tyrano/data/bgimage/外环街区.png",
+    "天文台.png": "/content/空中圣阁_Tyrano/data/bgimage/天文台.png",
+    "调度中心.png": "/content/空中圣阁_Tyrano/data/bgimage/调度中心.png"
+  },
+  "characters": {
+    "余千询.png": {
+      "file": "/content/空中圣阁_Tyrano/data/fgimage/characters_final/余千询.png",
+      "source": "原始立绘",
+      "size": [
+        941,
+        1672
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    "宛暗慧.png": {
+      "file": "/content/空中圣阁_Tyrano/data/fgimage/characters_final/宛暗慧.png",
+      "source": "抠图透明版",
+      "size": [
+        984,
+        1380
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    "智乐美.png": {
+      "file": "/content/空中圣阁_Tyrano/data/fgimage/characters_final/智乐美.png",
+      "source": "原始立绘",
+      "size": [
+        941,
+        1672
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    "极墨.png": {
+      "file": "/content/空中圣阁_Tyrano/data/fgimage/characters_final/极墨.png",
+      "source": "原始立绘",
+      "size": [
+        940,
+        1672
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    "灯墟.png": {
+      "file": "/content/空中圣阁_Tyrano/data/fgimage/characters_final/灯墟.png",
+      "source": "原始立绘",
+      "size": [
+        941,
+        1672
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    "灰数.png": {
+      "file": "/content/空中圣阁_Tyrano/data/fgimage/characters_final/灰数.png",
+      "source": "原始立绘",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha_range": [
+        0,
+        254
+      ]
+    },
+    "狂燧.png": {
+      "file": "/content/空中圣阁_Tyrano/data/fgimage/characters_final/狂燧.png",
+      "source": "原始立绘",
+      "size": [
+        941,
+        1672
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    "蔚湛思.png": {
+      "file": "/content/空中圣阁_Tyrano/data/fgimage/characters_final/蔚湛思.png",
+      "source": "抠图透明版",
+      "size": [
+        812,
+        1148
+      ],
+      "alpha_range": [
+        0,
+        255
+      ]
+    }
+  },
+  "event_json": "/content/空中圣阁_Tyrano/config/scene_events_normalized.json",
+  "raw_script": "/content/空中圣阁_Tyrano/source/剧本完整原文.txt"
+}

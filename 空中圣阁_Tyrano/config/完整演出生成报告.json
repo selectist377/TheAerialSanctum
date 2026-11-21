@@ -1,0 +1,29 @@
+{
+  "project": "空中圣阁",
+  "version": "1.0",
+  "status": "已生成，待 Tyrano 实际测试",
+  "event_count": 459,
+  "scene_count": 12,
+  "script_lines": 3886,
+  "script_bytes": 134993,
+  "script_sha256": "3a556e8ab0eefe4497297cba099e03119384d432423b2e8e72e6d12b0561774b",
+  "event_type_counts": {
+    "location": 12,
+    "time": 12,
+    "entrance": 12,
+    "stage_direction": 71,
+    "dialogue": 322,
+    "chorus": 5,
+    "poetic_verse": 18,
+    "act_title": 3,
+    "act_epigraph": 3,
+    "ending_marker": 1
+  },
+  "chorus_display_lines": 19,
+  "dialogue_voice_files_generated": 0,
+  "bgm_generated": false,
+  "original_first_ks_modified": false,
+  "test_scenario_modified": false,
+  "output": "/content/空中圣阁_Tyrano/data/scenario/空中圣阁_完整演出.ks",
+  "drive_backup": "/content/drive/MyDrive/空中圣阁制作工程/空中圣阁_完整演出.ks"
+}

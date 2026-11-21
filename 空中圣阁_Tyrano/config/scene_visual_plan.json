@@ -1,0 +1,349 @@
+{
+  "project": "空中圣阁",
+  "version": "0.1",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "aspect_ratio": "16:9",
+  "style": "Japanese sci-fi cinematic visual novel",
+  "transition_default": "crossfade",
+  "camera_default": "slow_pan",
+  "scenes": [
+    {
+      "id": 1,
+      "title": "通天神谕",
+      "backgrounds": [
+        "圣阁外部.png",
+        "东环空轨.png"
+      ],
+      "lighting": "rainy_night_purple",
+      "visual_cues": [
+        "three_level_stage_composition",
+        "purple_crystal_pipelines",
+        "red_rune_activation",
+        "chain_tightening_closeup",
+        "citizen_leaves_into_rain"
+      ],
+      "camera": [
+        "establishing_wide",
+        "high_angle",
+        "wrist_closeup"
+      ],
+      "motifs": [
+        "iron_chains",
+        "red_runes",
+        "price_screen"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "混沌已至",
+      "backgrounds": [
+        "外环街区.png"
+      ],
+      "lighting": "dark_neon_night",
+      "visual_cues": [
+        "hanging_advertising_screen",
+        "cable_whip_sparks",
+        "metal_frame_rhythm",
+        "hospital_window_distant",
+        "cable_lowering_and_stage_fade"
+      ],
+      "camera": [
+        "tracking_shot",
+        "medium_shot",
+        "slow_pullback"
+      ],
+      "motifs": [
+        "electricity",
+        "cable",
+        "hospital_window"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "龙祈之约",
+      "backgrounds": [
+        "圣阁.png",
+        "圣阁外部.png"
+      ],
+      "lighting": "morning_cool_light",
+      "visual_cues": [
+        "elevator_arrival",
+        "four_visitors_enter",
+        "rice_distribution",
+        "four_beams_reach_city",
+        "lamp_shadow_behind_glass",
+        "red_monitoring_light",
+        "lamp_shadow_escape"
+      ],
+      "camera": [
+        "entrance_wide",
+        "character_pan",
+        "glass_reflection",
+        "red_light_closeup"
+      ],
+      "motifs": [
+        "rice_bowl",
+        "glass_wall",
+        "wrist_memory",
+        "red_light"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "玻璃市集",
+      "backgrounds": [
+        "圣阁.png"
+      ],
+      "lighting": "bright_market_day",
+      "visual_cues": [
+        "open_market_crowd",
+        "projected_documentation",
+        "four_beam_soft_lighting",
+        "gray_number_spotlight",
+        "secret_corner_conversation"
+      ],
+      "camera": [
+        "market_pan",
+        "spotlight_push_in",
+        "corner_two_shot"
+      ],
+      "motifs": [
+        "open_information",
+        "light_beams",
+        "market"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "被解放的圣女",
+      "backgrounds": [
+        "圣阁.png"
+      ],
+      "lighting": "sunset_red_orange",
+      "visual_cues": [
+        "locked_lamp_in_inner_hall",
+        "restriction_release",
+        "chains_fall_to_floor",
+        "lamp_flinches_at_pressure_sound",
+        "rice_bowl_given_to_lamp",
+        "sunset_smile"
+      ],
+      "camera": [
+        "inner_hall_wide",
+        "chain_closeup",
+        "hands_closeup",
+        "sunset_portrait"
+      ],
+      "motifs": [
+        "iron_chains",
+        "rice_bowl",
+        "sunset"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "冰山一角",
+      "backgrounds": [
+        "圣阁.png",
+        "调度中心.png"
+      ],
+      "lighting": "cold_pre_dawn",
+      "visual_cues": [
+        "old_maintenance_video",
+        "scroll_and_projection_alignment",
+        "four_beam_evidence_comparison",
+        "hidden_craft_identity",
+        "group_reaction",
+        "chorus_gathering"
+      ],
+      "camera": [
+        "screen_closeup",
+        "overhead_document_shot",
+        "four_way_projection",
+        "reaction_sequence"
+      ],
+      "motifs": [
+        "old_records",
+        "four_beams",
+        "hidden_craft"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "幻想中的预言",
+      "backgrounds": [
+        "外环街区.png"
+      ],
+      "lighting": "winter_cold_blue",
+      "visual_cues": [
+        "frozen_city_square",
+        "terminal_prediction_screen",
+        "crowd_staring_up",
+        "lamp_by_frozen_fountain",
+        "secret_alley_meeting",
+        "rice_bowl_rhythm"
+      ],
+      "camera": [
+        "city_establishing",
+        "crowd_pan",
+        "fountain_portrait",
+        "alley_group_shot"
+      ],
+      "motifs": [
+        "winter",
+        "prediction_screen",
+        "rice_bowl"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "阴影之下",
+      "backgrounds": [
+        "调度中心.png"
+      ],
+      "lighting": "dark_cold_white_and_red",
+      "visual_cues": [
+        "four_city_feeds",
+        "scroll_and_log_analysis",
+        "suspicious_face_enlargement",
+        "red_alert",
+        "mysterious_projection",
+        "all_screens_cut_off"
+      ],
+      "camera": [
+        "control_room_wide",
+        "four_screen_composition",
+        "face_zoom",
+        "alert_flash"
+      ],
+      "motifs": [
+        "four_city_feeds",
+        "red_alert",
+        "mysterious_man"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "动荡前夜",
+      "backgrounds": [
+        "外环街区.png"
+      ],
+      "lighting": "stormy_winter_night",
+      "visual_cues": [
+        "crowded_square",
+        "gray_number_and_lamp_arrive",
+        "authority_staff_placed_aside",
+        "ice_projectile",
+        "crowd_surge",
+        "electric_spark_interrupts_chaos",
+        "wei_zhansi_takes_stage",
+        "crowd_calms_down"
+      ],
+      "camera": [
+        "crowd_wide",
+        "stage_two_shot",
+        "projectile_slow_motion",
+        "wei_zhansi_push_in",
+        "crowd_pullback"
+      ],
+      "motifs": [
+        "broken_authority",
+        "electricity",
+        "public_documents"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "终局调度",
+      "backgrounds": [
+        "调度中心.png",
+        "圣阁.png",
+        "外环街区.png"
+      ],
+      "lighting": "storm_emergency_red",
+      "visual_cues": [
+        "four_lift_rings_unstable",
+        "multi_location_communication",
+        "citywide_live_data",
+        "first_ring_load_reduction",
+        "child_receives_rice"
+      ],
+      "camera": [
+        "control_room_wide",
+        "communication_cutaways",
+        "citywide_projection",
+        "ring_status_closeup"
+      ],
+      "motifs": [
+        "communication",
+        "lift_rings",
+        "rice_bowl"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "同声协奏",
+      "backgrounds": [
+        "调度中心.png",
+        "外环街区.png",
+        "圣阁.png"
+      ],
+      "lighting": "storm_peak_then_dawn",
+      "visual_cues": [
+        "first_ring_stopped",
+        "morse_code_on_metal_beam",
+        "lamp_reads_monitoring_data",
+        "second_ring_shutdown",
+        "rice_given_to_worker",
+        "rescue_vehicles_arrive",
+        "third_and_fourth_rings_release_load"
+      ],
+      "camera": [
+        "ring_descent_wide",
+        "morse_code_hand_closeup",
+        "lamp_portrait",
+        "rescue_vehicle_tracking",
+        "citywide_final_wide"
+      ],
+      "motifs": [
+        "morse_code",
+        "rescue",
+        "lift_rings",
+        "rice_bowl"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "空中圣阁",
+      "backgrounds": [
+        "圣阁外部.png"
+      ],
+      "lighting": "clear_morning_warm",
+      "visual_cues": [
+        "sanctum_at_low_altitude",
+        "public_operation_panel",
+        "chains_in_transparent_display",
+        "public_table_and_rice_bowl",
+        "community_rebuilds",
+        "final_bowl_rhythm",
+        "cast_bows"
+      ],
+      "camera": [
+        "city_establishing",
+        "public_panel_pan",
+        "rice_bowl_closeup",
+        "ensemble_semicircle",
+        "final_wide"
+      ],
+      "motifs": [
+        "public_transparency",
+        "rice_bowl",
+        "sunrise",
+        "new_future"
+      ]
+    }
+  ]
+}
